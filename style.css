@@ -36,10 +36,17 @@ h2 {
 }
 
 .password-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     width: 13.188rem;
     height: 2.438rem;
     background-color: #273549;
     border-radius: 6px;
+    color: #55F991;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    line-height: 32px;
 }
 
 #second-h1 {
