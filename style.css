@@ -39,14 +39,15 @@ h2 {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 13.188rem;
-    height: 2.438rem;
+    width: fit-content;
+    height: fit-content;
     background-color: #273549;
     border-radius: 6px;
     color: #55F991;
     font-family: 'Inter', sans-serif;
     font-weight: 500;
     line-height: 32px;
+    padding: 9px 17px 15px 9px;
 }
 
 #second-h1 {
